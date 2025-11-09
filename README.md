@@ -32,7 +32,7 @@ The ALU operation is selected through a 3-bit **opcode**.
 
 ---
 
-## 🧱 File Structure
+
 ## 🛠 Tools Used
 - Verilog Simulator (EDA Playground/Xilinx Vivado)
 
